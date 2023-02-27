@@ -1,5 +1,5 @@
-# Pizza House 🏆 과제 MVP
-## 과제 : 로고 디자인 앱을 만들어라! [▶demo link](https://editor.p5js.org/SimEunSeo/full/8kUBo1ius)
+# (🏆 과제 MVP) Pizza House [▶demo link](https://editor.p5js.org/SimEunSeo/full/8kUBo1ius)
+### 과제 : 로고 디자인 앱을 만들어라!
 ![image](https://user-images.githubusercontent.com/55528304/221532267-d3e695a9-3c63-4435-9482-6c7dc82b938e.png)![image](https://user-images.githubusercontent.com/55528304/221532327-bfbafab0-86bd-47ad-a6af-186340798e82.png)
 
 - I assumed that I would make a logo
