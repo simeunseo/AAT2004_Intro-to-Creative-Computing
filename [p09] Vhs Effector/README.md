@@ -2,7 +2,7 @@
 ### 과제 : 웹캠을 활용해라!
 ![image](https://user-images.githubusercontent.com/55528304/221542533-8dff898f-61da-427d-9f4d-ebff4cd632e0.png)
 
-I couldn't use the camera function in my laptop, so I tried to replace the webcam with a video.
+My labtop webcam doesn't work, so I tried to replace the webcam with a video.
 But my laptop was too slow to load and use video. So eventually I replaced it with a photo. 😭
 
 ### Visual Concepts
