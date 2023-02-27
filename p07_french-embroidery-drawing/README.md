@@ -1,5 +1,5 @@
-# French Embroidery Drawing
-## 과제 : 나만의 그림판을 만들어라! [▶demo link](https://editor.p5js.org/SimEunSeo/full/93nqVmCT3)
+# French Embroidery Drawing [▶demo link](https://editor.p5js.org/SimEunSeo/full/93nqVmCT3)
+### 과제 : 나만의 그림판을 만들어라! 
 ![image](https://user-images.githubusercontent.com/55528304/221533909-afdb743c-a2ac-4a29-a116-82584ed85e08.png)
 
 ### Visual Concepts
