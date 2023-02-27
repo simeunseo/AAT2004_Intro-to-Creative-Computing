@@ -1,5 +1,8 @@
 # p01_emotion-drawing-app
 ## 과제 : 나만의 드로잉 앱을 만들어라! [▶demo link](https://simeunseo.github.io/2nd-assignment-7/)
+![image](https://user-images.githubusercontent.com/55528304/221526909-f5760610-2e42-40a1-bc75-607df814a231.png) |![image](https://user-images.githubusercontent.com/55528304/221527009-0269498f-bc41-4d8a-8802-58805396d44d.png)
+--- | --- | 
+
 This drawing app is a diary that records the day's emotion
 through brush colors. I wanted to design it so that if users
 paint day by day, look back at it later and remember, "This is
