@@ -1,5 +1,5 @@
-# Show Your Anger
-## 과제 : 마이크를 활용해라! [▶demo link](https://editor.p5js.org/SimEunSeo/sketches/T_xJRJP4A)
+# Show Your Anger [▶demo link](https://editor.p5js.org/SimEunSeo/sketches/T_xJRJP4A)
+### 과제 : 마이크를 활용해라! 
 ### 팀원 : Eunseo Sim, Younghoon Kim, Soyoung Yoon
 <img width="500px" src="https://user-images.githubusercontent.com/55528304/221530591-a750fa6c-5f65-4fc8-a947-bcbfd6e6d40c.png"/>
 
