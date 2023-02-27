@@ -1,5 +1,5 @@
-# Look At My Scales
-## 과제 : 마우스 인터랙션을 활용해라! [▶demo link](https://editor.p5js.org/SimEunSeo/full/vnsDEGPaP)
+# Look At My Scales [▶demo link](https://editor.p5js.org/SimEunSeo/full/vnsDEGPaP)
+### 과제 : 마우스 인터랙션을 활용해라! 
 <img width="500px" src="https://user-images.githubusercontent.com/55528304/221528566-e1d526cd-e750-43f4-880e-0ad944a88ea9.png"/>
 
 ### Target Visitors
