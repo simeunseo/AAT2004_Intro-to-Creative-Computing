@@ -1,5 +1,5 @@
 # VHS Effector [▶demo link](https://editor.p5js.org/SimEunSeo/full/b5fzesf2B)
-### 웹캠을 활용해라!
+### 과제 : 웹캠을 활용해라!
 ![image](https://user-images.githubusercontent.com/55528304/221542533-8dff898f-61da-427d-9f4d-ebff4cd632e0.png)
 
 I couldn't use the camera function in my laptop, so I tried to replace the webcam with a video.
